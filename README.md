@@ -38,7 +38,7 @@ pip install pyperclip
 ```
 ---
 
-# Usage
+## Usage
 Run the script from your terminal using Python:
 ```bash
 python script.py [action]
