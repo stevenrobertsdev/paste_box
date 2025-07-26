@@ -2,6 +2,8 @@
 
 A simple command-line tool for managing and retrieving reusable text snippets. Paste Box lets you quickly store, copy, and list chunks of content via the terminal. Ideal for developers, writers, or anyone who works with repeated text.
 
+![CLI demo](assets/pb.gif)
+
 ---
 
 ## Features
